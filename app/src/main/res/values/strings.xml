@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Kids Quiz</string>
+
+    <string name="s_q1">1- True or false: Caterpillars turn into toads?</string>
+    <string name="s_q1_a">True</string>
+    <string name="s_q1_b">False</string>
+
+    <string name="s_q2">2- What number must be added to 20 to make 82?</string>
+    <string name="s_q2_a">Enter the number</string>
+
+    <string name="s_q3">3- Which of the followings are a name of a continent?</string>
+    <string name="s_q3_a">Europe</string>
+    <string name="s_q3_b">Asia</string>
+    <string name="s_q3_c">Russia</string>
+    <string name="s_q3_d">Australia</string>
+    <string name="s_q3_e">America</string>
+    <string name="s_q3_f">China</string>
+
+    <string name="s_q5">4- Can you unscramble the following English word to reveal a type of animal that hops: BTBIRA?</string>
+    <string name="s_q5_a">Enter the word</string>
+
+    <string name="s_q4">5- Which country is Beijing the capital city of?</string>
+    <string name="s_q4_a">China</string>
+    <string name="s_q4_b">Japan</string>
+    <string name="s_q4_c">India</string>
+    <string name="s_q4_d">Argentina</string>
+
+    <string name="correctAnswer">Correct:</string>
+    <string name="score">Score:</string>
+    
+    <string name="submit">Submit</string>
+</resources>

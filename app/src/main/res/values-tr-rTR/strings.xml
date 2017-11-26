@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kids Quiz</string>
+    <string name="s_q1">1- Doğru veya Yanlış: Tırtıllar kurbağaya dönüşür?</string>
+    <string name="s_q1_a">Doğru</string>
+    <string name="s_q1_b">Yanlış</string>
+    <string name="s_q2">2- Hangi sayı 20\'ye eklenirse sonuç 82 olur?</string>
+    <string name="s_q2_a">Sayıyı girin</string>
+    <string name="s_q3">3- Aşağıdakilerden hangileri bir kıta adıdır?</string>
+    <string name="s_q3_a">Avrupa</string>
+    <string name="s_q3_b">Asya</string>
+    <string name="s_q3_c">Rusya</string>
+    <string name="s_q3_d">Avustralya</string>
+    <string name="s_q3_e">Amerika</string>
+    <string name="s_q3_f">Çin</string>
+    <string name="s_q5">4- Zıplayan bir hayvanı bulmak için bu İngilizce kelimeyi çözebilir misiniz: BTBIRA?</string>
+    <string name="s_q5_a">Kelimeyi girin</string>
+    <string name="s_q4">5- Beijing hangi ülkenin başkentidir?</string>
+    <string name="s_q4_a">Çin</string>
+    <string name="s_q4_b">Japonya</string>
+    <string name="s_q4_c">Hindistan</string>
+    <string name="s_q4_d">Arjantin</string>
+    <string name="correctAnswer">Doğru:</string>
+    <string name="score">Skor:</string>
+    <string name="submit">Gönder</string>
+</resources>
